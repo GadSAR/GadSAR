@@ -2,4 +2,4 @@
 <h1 align="center">Hi 👋, I'm Gad Sarusi</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadsar&show_icons=true&theme=dark&locale=en&layout=compact" alt="gadsar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadsar&show_icons=true&theme=dark&locale=en&layout=compact" alt="gadsar" /></p>
